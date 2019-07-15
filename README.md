@@ -1,1 +1,1 @@
-# wp-tours-and-tutorials
+# WP Tours and Tutorials
